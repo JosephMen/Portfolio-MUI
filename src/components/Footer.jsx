@@ -11,7 +11,8 @@ export default function Footer() {
                     height={300}
                     sx={{
                         "&:hover":{
-                            filter: "brightness(0.8);"
+                            filter: "brightness(0.8);",
+                            transition: '.3s'
                         }
                     }}
                     />

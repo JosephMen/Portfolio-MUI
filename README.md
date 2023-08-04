@@ -8,4 +8,4 @@ To deploy this project locally
     -npm install
     -npm run dev
 ```
-Live link (NetLify)[]
+Live link: [Netlify](https://portfolio-frander.netlify.app/)

@@ -8,7 +8,8 @@ const AppCard = ({param, link, tags, title, git, img}) => {
             <Card variant="outlined" >
                 <CardMedia
                     sx={{height: 140, "&:hover":{
-                        filter: "brightness(0.8);"
+                        filter: "brightness(0.8);",
+                        transition: '.3s'
                     }}}
                     image={img}
                 />
