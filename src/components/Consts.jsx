@@ -1,5 +1,16 @@
 const Info = [
     {
+        param : `a visualization application of countries of the world and basic 
+        information, a simple interface with dark mode and responsive. A search 
+        box and routing using react router. `,
+        tags : ['React', 'React Router', 'API REST', 'Material UI', 'Responsive'],
+        link: "https://api-country-frander.netlify.app/",
+        git: 'https://github.com/JosephMen/age-calculator-app-main',
+        title: "Country API",
+        img: '/imgs/api-country.png',
+        id: 6
+    },
+    {
         param : `An age calculator, which counts the days, months and 
         years that have passed from the current date to the indicated date. 
         Created with Vanilla JS it is a logical challenge in which you have 
